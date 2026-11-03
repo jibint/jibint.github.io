@@ -2,12 +2,16 @@
 
 A responsive portfolio for Jibin T, Team Lead and Java software engineer in Abu Dhabi. It covers healthcare and enterprise application work, including DOH, DHA, MOH, PACS and laboratory integrations.
 
-## Intended GitHub targets
+## Website and source
 
 - Website: [jibint.github.io](https://jibint.github.io/)
 - Repository: [jibint/jibint.github.io](https://github.com/jibint/jibint.github.io)
 
-These are the intended publication targets. Confirm the Pages deployment completes before sharing the website as live.
+The site uses GitHub Pages with the `main` branch and repository root as its publishing source.
+
+## Design and interactions
+
+The portfolio uses a forest-green and warm-ivory design, an interactive dimensional integration map, healthcare and enterprise project filters, a career timeline, and direct email and LinkedIn contact links. Motion respects the visitor's reduced-motion setting. Copying the email address happens only when the visitor chooses the copy button.
 
 ## Publish with GitHub Pages
 
