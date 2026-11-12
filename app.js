@@ -103,7 +103,7 @@
         });
       });
     }, { rootMargin: '-15% 0px -55% 0px', threshold: 0 });
-    ['overview', 'integrations', 'work', 'experience'].forEach(id => {
+    ['overview', 'integrations', 'work', 'ai', 'experience'].forEach(id => {
       const section = document.getElementById(id);
       if (section) navigationObserver.observe(section);
     });
